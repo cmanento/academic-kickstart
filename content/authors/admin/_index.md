@@ -6,12 +6,11 @@ bio: My research and teaching interests include American politics, political
   parties, congressional primary elections, political behavior, gender and
   politics, and legislative process.
 interests:
-  - American politics
-  - political parties
-  - congressional primary elections
-  - political behavior
-  - gender and politics
-  - and legislative process.
+  - Political Parties
+  - Primary elections
+  - Political Behavior
+  - Gender and Politics
+  - Legislative Process.
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,7 +28,7 @@ organizations:
   - name: Brown University
 education:
   courses:
-    - course: Ph.D. in Political Science
+    - course: Ph.D. (Expected April 2021) in Political Science
       institution: Brown University
       year: ""
 email: cory_manento@brown.edu
