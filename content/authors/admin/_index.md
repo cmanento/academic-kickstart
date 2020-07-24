@@ -10,7 +10,7 @@ interests:
   - Primary elections
   - Political Behavior
   - Gender and Politics
-  - Legislative Process.
+  - Legislative Process
 social:
   - icon: envelope
     icon_pack: fas
