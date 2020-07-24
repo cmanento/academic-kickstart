@@ -7,7 +7,7 @@ bio: My research and teaching interests include American politics, political
   politics, and legislative process.
 interests:
   - Political Parties
-  - Primary elections
+  - Primary Elections
   - Political Behavior
   - Gender and Politics
   - Legislative Process
