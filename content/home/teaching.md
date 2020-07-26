@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Congress and Public Policy"
   url = ""
   certificate_url = ""
-  date_start = "Fall 2020"
+  date_start = "Aug 2020"
   date_end = ""
   description = ""
   
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "American Political Parties and Elections"
   url = ""
   certificate_url = ""
-  date_start = "Fall 2020"
+  date_start = "Aug 2020"
   date_end = ""
   description = ""
 
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "American National Government"
   url = ""
   certificate_url = ""
-  date_start = "Fall 2020"
+  date_start = "Aug 2020"
   date_end = ""
   description = ""
 
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   title = "American Government and Politics (A and B)"
   url = ""
   certificate_url = ""
-  date_start = "Fall 2019"
+  date_start = "Aug 2019"
   date_end = ""
   description = ""
 
