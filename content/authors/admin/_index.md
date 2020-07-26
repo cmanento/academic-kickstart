@@ -1,7 +1,7 @@
 ---
 title: Cory Manento
 role: Ph.D. Candidate
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research and teaching interests include American politics, political
   parties, congressional primary elections, political behavior, gender and
   politics, and legislative process.
