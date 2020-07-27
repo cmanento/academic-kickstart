@@ -1,6 +1,6 @@
 ---
 title: "Party Crashers: Interest Groups as a Latent Threat to Party Networks in Congressional Primaries"
-date: 2019-03-01
+date: 2019-02-08
 url_pdf: /files/manento_partycrashers.pdf
 publishDate: 2020-07-26T21:35:31.043146Z
 authors: ["Cory Manento"]
