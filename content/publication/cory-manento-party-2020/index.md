@@ -1,6 +1,7 @@
 ---
 title: "In Party We Trust? Voter Support for Party-Backed Candidates in Primary Elections"
-date: 2020-01-01
+date:
+url-pdf: academic-kickstart/static/files/Manento_Testa_Distrust.pdf
 publishDate: 2020-07-26T21:35:31.045609Z
 authors: ["Cory Manento", "Paul F. Testa"]
 publication_types: ["4"]
