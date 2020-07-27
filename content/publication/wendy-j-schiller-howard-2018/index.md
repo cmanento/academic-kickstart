@@ -1,5 +1,5 @@
 ---
-title: "Howard Baker and the Conditional Use of Parliamentary Procedure in the U.S. Senate."
+title: "Howard Baker and the Conditional Use of Parliamentary Procedure in the U.S. Senate"
 date: 2018-07-30
 publishDate: 2020-07-26T21:35:31.047125Z
 authors: ["Wendy J. Schiller", "Cory Manento"]
