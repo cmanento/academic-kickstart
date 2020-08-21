@@ -1,4 +1,9 @@
 ---
+organizations:
+  - name: Brown University
+superuser: true
+authors:
+  - admin
 title: Cory Manento
 role: Ph.D. Candidate
 avatar_filename: avatar.jpg
@@ -8,9 +13,9 @@ bio: My research and teaching interests include American politics, political
 interests:
   - Political Parties
   - Primary Elections
-  - Political Behavior
+  - Political Methodology
   - Gender and Politics
-  - Legislative Process
+  - Political Behavior
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,22 +29,17 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/cmanento
-organizations:
-  - name: Brown University
 education:
   courses:
-    - course: Ph.D. (Expected April 2021) in Political Science
+    - course: Ph.D. (Expected October 2020) in Political Science
       institution: Brown University
       year: ""
 email: cory_manento@brown.edu
-superuser: true
-authors:
-  - admin
 user_groups:
   - ""
 ---
-My dissertation addresses the democratic and representational implications of party and interest group competition in primary elections. Using a combination of methods, including a conjoint survey experiment, a traditional survey experient, qualitative case studies, and quantitative analysis of longitudinal campaign finance data, the dissertation demonstrates that growing voter distrust of parties and political institutions combined with significant changes to the campaign finance system have benefited candidates who, in previous eras, have been blocked or impeded from running for office by party leaders.
+I am a Visiting Assistant Professor of Political Science at Trinity College, and Ph.D. Candidate in Political Science at Brown University. My dissertation project explains the conditions which make it more likely for outsider candidates to win primary elections. 
 
-My research and teaching interests include American politics, political parties, congressional primary elections, political behavior, gender and politics, and legislative process.
+My dissertation addresses the democratic and representational implications of party and interest group competition in primary elections. Using a combination of methods, including a conjoint survey experiment, a traditional survey experiment, qualitative case studies, and quantitative analysis of longitudinal campaign finance data, the dissertation demonstrates that growing voter distrust of parties and political institutions combined with significant changes to the campaign finance system have benefited candidates who, in previous eras, have been blocked or impeded from running for office by party leaders.
 
-I received my B.A. in Political Science from Central Connecticut State University, and my M.A. in Political Science from Brown University. Prior to attending graduate school I worked as a legislative operations specialist for the Connecticut General Assembly. When I am not reading or thinking about politics and when there is no global pandemic I enjoy trying new restaurants, rooting for the Boston Red Sox and New York Giants (it's a Connecticut thing), and walking my two dogs.
+I received my B.A. in Political Science from Central Connecticut State University, and my M.A. in Political Science from Brown University. Prior to attending graduate school I worked as a legislative operations specialist for the Connecticut General Assembly. When I am not reading or thinking about politics and when there is not a global pandemic I enjoy trying new restaurants, rooting for the Boston Red Sox and New York Giants (it's a Connecticut thing), and walking my two dogs.
