@@ -34,7 +34,7 @@ education:
     - course: Ph.D. (Expected October 2020) in Political Science
       institution: Brown University
       year: ""
-email: cory_manento@brown.edu
+email: cory.manento@trincoll.edu
 user_groups:
   - ""
 ---
