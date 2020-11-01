@@ -1,11 +1,11 @@
 ---
 organizations:
-  - name: Brown University
+  - name: Trinity College
 superuser: true
 authors:
   - admin
 title: Cory Manento
-role: Ph.D. Candidate
+role: Visiting Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research and teaching interests include American politics, political
   parties, congressional primary elections, political behavior, gender and
@@ -31,14 +31,14 @@ social:
     link: https://github.com/cmanento
 education:
   courses:
-    - course: Ph.D. (Expected October 2020) in Political Science
+    - course: Ph.D. in Political Science
       institution: Brown University
       year: ""
 email: cory.manento@trincoll.edu
 user_groups:
   - ""
 ---
-I am a Visiting Assistant Professor of Political Science at Trinity College, and Ph.D. Candidate in Political Science at Brown University. My dissertation project explains the conditions which make it more likely for outsider candidates to win primary elections. 
+I am a Visiting Assistant Professor of Political Science at Trinity College, and earned my PhD from Brown University in 2020. My dissertation project explains the conditions which make it more likely for outsider candidates to win primary elections. 
 
 My dissertation addresses the democratic and representational implications of party and interest group competition in primary elections. Using a combination of methods, including a conjoint survey experiment, a traditional survey experiment, qualitative case studies, and quantitative analysis of longitudinal campaign finance data, the dissertation demonstrates that growing voter distrust of parties and political institutions combined with significant changes to the campaign finance system have benefited candidates who, in previous eras, have been blocked or impeded from running for office by party leaders.
 
